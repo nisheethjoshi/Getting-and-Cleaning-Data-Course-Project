@@ -43,7 +43,7 @@ The code in the script is divided into sections, and these sections will be expl
 
 ### 0. Read the files.
 * Downloads a `UCI_HAR_20_Dataset.zip` file with data if it doesn't exist. [:package: source](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-* Unzips the data into [a folder](https://github.com/demidovakatya/gettingandclearingdata/tree/master/UCI%20HAR%20Dataset).
+* Unzips the data into a folder
 * Reads features.txt into `features`.
 * Reads X_train.txt and x_test.txt into `x.test` and `x.train` (recorded data).
 * Reads y_train.txt and y_test.txt into `y.test` and `y.train` (activity types).
@@ -66,7 +66,6 @@ The code in the script is divided into sections, and these sections will be expl
 * Using `sub` function, makes these names more descriptive.
 * Assigns new names to `data` column names.
 
-[:ledger: read about variable names →](#description-of-the-variables)
 
 ### 5. From the data set in step 4, create a second, independent tidy data set with the average of each variable for each activity and each subject.
 * Loads the `plyr` library.
