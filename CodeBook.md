@@ -151,7 +151,6 @@ str(tidy.data)
  $ Freq.Body.AngularVelocityJerk.Magnitude.Mean : num  -0.319 -0.583 -0.608 -0.724 -0.548 ...
  $ Freq.Body.AngularVelocityJerk.Magnitude.StDev: num  -0.382 -0.558 -0.549 -0.758 -0.456 ...
  ```
-[:page_with_curl: summary →](https://github.com/demidovakatya/gettingandclearingdata/edit/master/Summary.md)
 
 ### Variables in the dataset
 There are the following variables in the resulting data set `tidy.data`:
