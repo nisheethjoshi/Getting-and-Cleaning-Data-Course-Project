@@ -74,9 +74,6 @@ The code in the script is divided into sections, and these sections will be expl
 * Assigns it to a new data set, `tidy.data`.
 * Writes the tidy data set `tidy.data` into a text file `tidy_data.txt`.
 
-[:page_with_curl: go to run_analysis.R →](https://github.com/demidovakatya/gettingandclearingdata/blob/master/run_analysis.R)
-
-[:page_with_curl: look at the text file →](https://github.com/demidovakatya/gettingandclearingdata/blob/master/tidy_data.txt)
 
 ## Description of the variables
 
